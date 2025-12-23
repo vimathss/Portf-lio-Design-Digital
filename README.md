@@ -46,5 +46,4 @@ O repositório é organizado por **categorias de design**, facilitando a navega�
 ```text
 📁 social-media/
 📁 identidade-visual/
-📁 criacoes-digitais/
-📁 outros-projetos/
+
